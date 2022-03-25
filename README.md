@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Stat Preview Card](https://github.com/hoytima/stat-preview-card.git)
-- Live Site URL: [Stat Preview Card Component](https://stat-preview-card.github.io/)
+- Solution URL: [Stat Preview Card](https://github.com/mooktar/stat-preview-card.git)
+- Live Site URL: [Stat Preview Card Component](https://stats-preview-card-sigma-orpin.vercel.app/)
 
 
 
